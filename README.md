@@ -30,7 +30,7 @@ Pour exécuter ce projet localement, assurez-vous de posséder [Node.js](https:/
 
 1. **Cloner le répertoire**
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/sumiriko-dashboard.git
+   git clone https://github.com/BNhoussine/Dashboard-SumiRiko.git
    cd sumiriko-dashboard
    ```
 
